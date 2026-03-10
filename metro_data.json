@@ -1,0 +1,16 @@
+{
+  "stations": ["Central", "Park", "Guindy", "Airport", "Koyambedu", "Egmore"],
+  "fares": {
+    "Central-Park": 10,
+    "Central-Guindy": 20,
+    "Park-Airport": 30,
+    "Central-Airport": 25,
+    "Egmore-Koyambedu": 15
+  },
+  "timings": {
+    "Central-Park": "every 5 minutes",
+    "Central-Airport": "every 15 minutes",
+    "Park-Airport": "every 10 minutes",
+    "Egmore-Koyambedu": "every 20 minutes"
+  }
+}
